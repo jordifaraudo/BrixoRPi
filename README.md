@@ -5,7 +5,11 @@ Based on the standard free Brixo API formerly available at http://brixotoys.com/
 The following libraries included here are always needed
 UUID.py
 bglib.py
-BGWrapper.py	
+BGWrapper.py
+brixo.py
+
+The follwoing general library has to be installed:
+netaddr 
 
 There are two example programs for windows PC and Raspberry Pi , both in python2
 Example_PC.py
