@@ -8,7 +8,7 @@ bglib.py
 BGWrapper.py
 brixo.py
 
-The follwoing general library has to be installed:
+The following general library has to be installed:
 netaddr 
 
 There are two example programs for windows PC and Raspberry Pi , both in python2
